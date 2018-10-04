@@ -37,4 +37,11 @@ OUT = TreeFilterRGB_Uint8(uint8_rgbimg,sigma,sig_s[,sig_r=0.05[,num_iter=1]])
 ```
 
 ```
-
+### Additional
+Rolling Guidance Filter: http://www.cse.cuhk.edu.hk/leojia/projects/rollguidance/
+Guided Image Filtering: http://kaiminghe.com/eccv10/
+Adaptive Manifolds: http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/
+https://arxiv.org/abs/1503.07297v1
+P Milanfar: *A tour of modern image filtering: New insights and methods, both practical and theoretical*, 2013
+google scholar: https://goo.gl/FFU61H
+pdf: https://www.researchgate.net/profile/Peyman_Milanfar2/publication/258792315_A_Tour_of_Modern_Image_Filtering_New_Insights_and_Methods_Both_Practical_and_Theoretical/links/5465578c0cf2052b509f2f61/A-Tour-of-Modern-Image-Filtering-New-Insights-and-Methods-Both-Practical-and-Theoretical.pdf
